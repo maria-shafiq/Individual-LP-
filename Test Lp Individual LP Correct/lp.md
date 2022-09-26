@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-- Test Individual Correct 1a
+  - Test Individual Correct 1a
 title: Test Lp Individual LP Correct
