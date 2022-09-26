@@ -1,11 +1,10 @@
-title: Test Lp Individual LP Correct
 categories:
-  -Istio
-description: new description witth the zzmfur
-isAvailable: true
-isNew: true
+  - docker
+title:Test Lp Individual LP Correct
+description: testing purpose test LP
 isPremium: true
-license: Apache
+isNew: true
+isAvailable: true
 scenarioCount: 1
 scenarios:
-  -Test Individual Correct 1a
+  - Test Individual Correct 1a
